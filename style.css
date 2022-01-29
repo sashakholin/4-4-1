@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+     background-color: coral;
+    padding: 10px;
+}
+
+header a {
+   text-decoration: none;
+   color: darkturquoise;
+    font-weight: bold;
+    background-color: dimgray;
+    padding: 3px;
+    border: 5px blue;
+    border-radius: 10px;
+
+}
+
+h1 {
+ color: darkgreen;
+ background-color: coral;
+ font-size: 30px;
+
+}
+
+footer p { 
+     background-color: cyan;
+     border-radius: 10px;
+}
+
+body {
+    background-color: darkorange;
+}
+
+nav a {
+                   
+ text-decoration: none;
+  background-color: 
+   aqua;   
+  border-radius: 5px ;
+  padding: 7px;
+  color: black;
+  
+
+}
+nav {
+    padding: 10px;
+}
+
+.main_pf {
+    background-color: aquamarine;
+    border-radius: 10PX ;
+    color: brown;
+}
